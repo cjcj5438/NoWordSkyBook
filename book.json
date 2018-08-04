@@ -1,0 +1,32 @@
+{
+  "title": "天书",
+  "description": "这时一本无纸天书,哈哈哈~",
+  "author": "陈靖",
+  "language": "zh-hans",
+  "links": {
+    "sidebar": {
+      "前端博客": "",
+      "前端小站": ""
+    }
+  },
+  "styles":{
+    "website":"style.css"
+  },
+  "plugins": [
+    "-lunr",
+    "-search",
+    "-sharing",
+    "-livereload",
+    "expandable-chapters",
+    "search-plus",
+    "splitter",
+    "github",
+   "back-to-top-button"
+  ],
+  "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/littlematch0123/FE-booklet"
+    }
+  }
+
+}
