@@ -1,7 +1,3 @@
----
-description: 这个题如果你能答出ORM的库势必增分
----
-
 # 缓存前端静态资源的常用方法
 
 1.ORM封装localforage Local Storage、Session Storage、IndexedDB、Web SQL 
