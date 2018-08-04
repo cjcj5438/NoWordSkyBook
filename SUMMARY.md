@@ -219,6 +219,7 @@
     * [如果让你开发一个性能统计平台，请你 写出你的思路](mian-shi-ti/100-ti-zhi-tong-che/qian-duan-xing-neng-you-hua-yu-gong-cheng-hua/ru-guo-rang-ni-kai-fa-yi-ge-xing-neng-tong-ji-ping-tai-qing-ni-xie-chu-ni-de-si-lu.md)
     * [在移动端特别重视首屏时间，请写出你掌握的降低首屏时间的方法?](mian-shi-ti/100-ti-zhi-tong-che/qian-duan-xing-neng-you-hua-yu-gong-cheng-hua/zai-yi-dong-duan-te-bie-zhong-shi-shou-ping-shi-jian-qing-xie-chu-ni-zhang-wo-de-jiang-di-shou-ping.md)
     * [我们知道一个网站的并发是有限制的，那即使合并了很多请求还是不能解决静态资 源请求过多的情况，你有什么优化手段么](mian-shi-ti/100-ti-zhi-tong-che/qian-duan-xing-neng-you-hua-yu-gong-cheng-hua/wo-men-zhi-dao-yi-ge-wang-zhan-de-bing-fa-shi-you-xian-zhi-de-na-ji-shi-he-bing-le-hen-duo-qing-qiu.md)
+    * [.性能优化不仅仅限于前台静态资源文件，很多时候还需要优化Node,那你知道哪些优 化后台的技术手段么](mian-shi-ti/100-ti-zhi-tong-che/qian-duan-xing-neng-you-hua-yu-gong-cheng-hua/.-xing-neng-you-hua-bu-jin-jin-xian-yu-qian-tai-jing-tai-zi-yuan-wen-jian-hen-duo-shi-hou-hai-xu-yao.md)
 * [JavaScript基础](mian-shi-ti/javascript-ji-chu/README.md)
   * [拖拽](mian-shi-ti/javascript-ji-chu/tuo-zhuai/README.md)
     * [HTML拖拽](mian-shi-ti/javascript-ji-chu/tuo-zhuai/html-tuo-zhuai.md)
