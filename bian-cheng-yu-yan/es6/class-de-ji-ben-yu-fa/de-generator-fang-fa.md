@@ -1,0 +1,2 @@
+# &的Generator方法
+

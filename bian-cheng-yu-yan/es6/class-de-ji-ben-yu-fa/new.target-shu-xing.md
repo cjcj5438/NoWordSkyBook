@@ -1,0 +1,2 @@
+# new.target属性
+
