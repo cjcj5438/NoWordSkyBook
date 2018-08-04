@@ -49,7 +49,7 @@ const mergePromise = (ajaxArray) => {
 }
 ```
 
-方法二
+## 方法二
 
 ```javascript
 const mergePromise = (ajaxArray) => {
@@ -66,7 +66,7 @@ const mergePromise = (ajaxArray) => {
 }
 ```
 
-方法三
+## ~~方法三~~
 
 ```javascript
 const mergePromise = (ajaxArray) => {
