@@ -13,6 +13,8 @@
     "website":"style.css"
   },
   "plugins": [
+    "advanced-emoji",
+   "github-buttons",
     "-lunr",
     "-search",
     "-sharing",
@@ -25,8 +27,17 @@
   ],
   "pluginsConfig": {
     "github": {
-      "url": "https://github.com/littlematch0123/FE-booklet"
-    }
+      "url": "https://github.com/cjcj5438/NoWordSkyBook/"
+    },
+    "github-buttons": {
+            "repo": "zhangjikai/gitbook-use",
+            "types": [
+                "star",
+                "watch",
+                "fork"
+            ],
+            "size": "small"
+        }
   }
 
 }
