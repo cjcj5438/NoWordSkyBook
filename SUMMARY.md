@@ -238,6 +238,7 @@
     * [性能优化的经验?](mian-shi-ti/100-ti-zhi-tong-che/qian-duan-xing-neng-you-hua-yu-gong-cheng-hua/xing-neng-you-hua-de-jing-yan.md)
     * [静态文件放放入CDN的好处?](mian-shi-ti/100-ti-zhi-tong-che/qian-duan-xing-neng-you-hua-yu-gong-cheng-hua/jing-tai-wen-jian-fang-fang-ru-cdn-de-hao-chu.md)
     * [缓存前端静态资源的常用方法](mian-shi-ti/100-ti-zhi-tong-che/qian-duan-xing-neng-you-hua-yu-gong-cheng-hua/huan-cun-qian-duan-jing-tai-zi-yuan-de-chang-yong-fang-fa.md)
+    * [如果让你开发一个性能统计平台，请你 写出你的思路](mian-shi-ti/100-ti-zhi-tong-che/qian-duan-xing-neng-you-hua-yu-gong-cheng-hua/ru-guo-rang-ni-kai-fa-yi-ge-xing-neng-tong-ji-ping-tai-qing-ni-xie-chu-ni-de-si-lu.md)
 * [test](mian-shi-ti/test/README.md)
   * [textbox](mian-shi-ti/test/textbox/README.md)
     * [test1](mian-shi-ti/test/textbox/test1.md)
