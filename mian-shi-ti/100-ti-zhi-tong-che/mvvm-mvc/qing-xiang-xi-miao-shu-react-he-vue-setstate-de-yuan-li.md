@@ -1,7 +1,3 @@
----
-description: 高频考题
----
-
 # 请详细描述React和Vue SetState的原理
 
 {% tabs %}
