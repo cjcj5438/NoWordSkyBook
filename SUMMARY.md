@@ -133,6 +133,7 @@
     * [VUE实例](mv-qian-duan-kuang-jia/vue/ji-chu-api/vue-shi-li.md)
     * [生命周期](mv-qian-duan-kuang-jia/vue/ji-chu-api/sheng-ming-zhou-qi.md)
     * [数据绑定](mv-qian-duan-kuang-jia/vue/ji-chu-api/shu-ju-bang-ding.md)
+    * [watch和computed](mv-qian-duan-kuang-jia/vue/ji-chu-api/watch-he-computed.md)
   * [Vue深入实践](mv-qian-duan-kuang-jia/vue/vue-shen-ru-shi-jian/README.md)
     * [vuex](mv-qian-duan-kuang-jia/vue/vue-shen-ru-shi-jian/vuex.md)
 * [Rxjs](mv-qian-duan-kuang-jia/rxjs/README.md)
