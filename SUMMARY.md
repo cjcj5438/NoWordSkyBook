@@ -138,6 +138,8 @@
     * [component](mv-qian-duan-kuang-jia/vue/ji-chu-api/component/README.md)
       * [组件的定义](mv-qian-duan-kuang-jia/vue/ji-chu-api/component/zu-jian-de-ding-yi.md)
       * [组件继承](mv-qian-duan-kuang-jia/vue/ji-chu-api/component/zu-jian-ji-cheng.md)
+      * [双向数据绑定](mv-qian-duan-kuang-jia/vue/ji-chu-api/component/shuang-xiang-shu-ju-bang-ding.md)
+      * [高级属性](mv-qian-duan-kuang-jia/vue/ji-chu-api/component/gao-ji-shu-xing.md)
   * [Vue深入实践](mv-qian-duan-kuang-jia/vue/vue-shen-ru-shi-jian/README.md)
     * [vuex](mv-qian-duan-kuang-jia/vue/vue-shen-ru-shi-jian/vuex.md)
 * [Rxjs](mv-qian-duan-kuang-jia/rxjs/README.md)
