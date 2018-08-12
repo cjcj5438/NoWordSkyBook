@@ -150,6 +150,7 @@
   * [Vuex](mv-qian-duan-kuang-jia/vue/vuex/README.md)
     * [vuex集成](mv-qian-duan-kuang-jia/vue/vuex/vuex-ji-cheng.md)
     * [Getters&State](mv-qian-duan-kuang-jia/vue/vuex/getters-and-state.md)
+    * [mutation & action](mv-qian-duan-kuang-jia/vue/vuex/mutation-and-action.md)
 * [Rxjs](mv-qian-duan-kuang-jia/rxjs/README.md)
   * [基础API](mv-qian-duan-kuang-jia/rxjs/ji-chu-api/README.md)
     * [快速上手](mv-qian-duan-kuang-jia/rxjs/ji-chu-api/kuai-su-shang-shou.md)
