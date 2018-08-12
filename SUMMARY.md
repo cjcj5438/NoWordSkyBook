@@ -142,6 +142,8 @@
       * [高级属性](mv-qian-duan-kuang-jia/vue/ji-chu-api/component/gao-ji-shu-xing.md)
   * [Vue深入实践](mv-qian-duan-kuang-jia/vue/vue-shen-ru-shi-jian/README.md)
     * [vuex](mv-qian-duan-kuang-jia/vue/vue-shen-ru-shi-jian/vuex.md)
+  * [Vue-router](mv-qian-duan-kuang-jia/vue/vuerouter-zhi-ji-cheng/README.md)
+    * [Vue-router之集成](mv-qian-duan-kuang-jia/vue/vuerouter-zhi-ji-cheng/vuerouter-zhi-ji-cheng.md)
 * [Rxjs](mv-qian-duan-kuang-jia/rxjs/README.md)
   * [基础API](mv-qian-duan-kuang-jia/rxjs/ji-chu-api/README.md)
     * [快速上手](mv-qian-duan-kuang-jia/rxjs/ji-chu-api/kuai-su-shang-shou.md)
