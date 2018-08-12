@@ -144,6 +144,8 @@
     * [vuex](mv-qian-duan-kuang-jia/vue/vue-shen-ru-shi-jian/vuex.md)
   * [Vue-router](mv-qian-duan-kuang-jia/vue/vuerouter-zhi-ji-cheng/README.md)
     * [Vue-router之集成](mv-qian-duan-kuang-jia/vue/vuerouter-zhi-ji-cheng/vuerouter-zhi-ji-cheng.md)
+    * [route 实例配置](mv-qian-duan-kuang-jia/vue/vuerouter-zhi-ji-cheng/route-shi-li-pei-zhi.md)
+    * [参数传递](mv-qian-duan-kuang-jia/vue/vuerouter-zhi-ji-cheng/untitled.md)
 * [Rxjs](mv-qian-duan-kuang-jia/rxjs/README.md)
   * [基础API](mv-qian-duan-kuang-jia/rxjs/ji-chu-api/README.md)
     * [快速上手](mv-qian-duan-kuang-jia/rxjs/ji-chu-api/kuai-su-shang-shou.md)
