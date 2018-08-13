@@ -151,6 +151,8 @@
     * [vuex集成](mv-qian-duan-kuang-jia/vue/vuex/vuex-ji-cheng.md)
     * [Getters&State](mv-qian-duan-kuang-jia/vue/vuex/getters-and-state.md)
     * [mutation & action](mv-qian-duan-kuang-jia/vue/vuex/mutation-and-action.md)
+    * [模块](mv-qian-duan-kuang-jia/vue/vuex/mo-kuai.md)
+    * [其他一些API和配置](mv-qian-duan-kuang-jia/vue/vuex/qi-ta-yi-xie-api-he-pei-zhi.md)
 * [Rxjs](mv-qian-duan-kuang-jia/rxjs/README.md)
   * [基础API](mv-qian-duan-kuang-jia/rxjs/ji-chu-api/README.md)
     * [快速上手](mv-qian-duan-kuang-jia/rxjs/ji-chu-api/kuai-su-shang-shou.md)
