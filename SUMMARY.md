@@ -3,32 +3,10 @@
 * [Introduction](README.md)
 * [First Chapter](first-chapter.md)
 
-## 算法&数据结构
 
-* [基础](suan-fa-shu-ju-jie-gou/ji-chu/README.md)
-  * [队列](suan-fa-shu-ju-jie-gou/ji-chu/dui-lie.md)
-  * [集合](suan-fa-shu-ju-jie-gou/ji-chu/ji-he.md)
-  * [列表](suan-fa-shu-ju-jie-gou/ji-chu/lie-biao.md)
-  * [栈](suan-fa-shu-ju-jie-gou/ji-chu/zhan.md)
-  * [字典](suan-fa-shu-ju-jie-gou/ji-chu/zi-dian.md)
-  * [散列](suan-fa-shu-ju-jie-gou/ji-chu/san-lie/README.md)
-    * [散列介绍](suan-fa-shu-ju-jie-gou/ji-chu/san-lie/san-lie-jie-shao.md)
-    * [开链法](suan-fa-shu-ju-jie-gou/ji-chu/san-lie/kai-lian-fa.md)
-    * [线性探测法](suan-fa-shu-ju-jie-gou/ji-chu/san-lie/xian-xing-tan-ce-fa.md)
-  * [链表](suan-fa-shu-ju-jie-gou/ji-chu/lian-biao/README.md)
-    * [链表介绍](suan-fa-shu-ju-jie-gou/ji-chu/lian-biao/lian-biao-jie-shao.md)
-    * [单向链表代码实现](suan-fa-shu-ju-jie-gou/ji-chu/lian-biao/dan-xiang-lian-biao-dai-ma-shi-xian.md)
-    * [双向链表代码实现](suan-fa-shu-ju-jie-gou/ji-chu/lian-biao/shuang-xiang-lian-biao-dai-ma-shi-xian.md)
-
-## CSS
-
-* [css](css/css/README.md)
-  * [flex](css/css/flex.md)
-* [sass](css/sass/README.md)
-  * [使用手册](css/sass/shi-yong-shou-ce/README.md)
-    * [速查手册](css/sass/shi-yong-shou-ce/su-cha-shou-ce.md)
 
 ## 编程语言
+* [函数式编程](bian-cheng-yu-yan/fn/README.md)
 
 * [NodeJS](bian-cheng-yu-yan/nodejs/README.md)
   * [基础API](bian-cheng-yu-yan/nodejs/ji-chu-api/README.md)
@@ -117,6 +95,18 @@
     * [Trait](bian-cheng-yu-yan/es6/xiu-shi-qi/trait.md)
     * [babel](bian-cheng-yu-yan/es6/xiu-shi-qi/babel.md)
 
+## 构建工具
+
+* [webpack](toos/webpack/README.md)
+
+## CSS
+
+* [css](css/css/README.md)
+  * [flex](css/css/flex.md)
+* [sass](css/sass/README.md)
+  * [使用手册](css/sass/shi-yong-shou-ce/README.md)
+    * [速查手册](css/sass/shi-yong-shou-ce/su-cha-shou-ce.md)
+
 ## MV\*前端框架
 
 * [React](mv-qian-duan-kuang-jia/react/README.md)
@@ -156,6 +146,24 @@
 * [Rxjs](mv-qian-duan-kuang-jia/rxjs/README.md)
   * [基础API](mv-qian-duan-kuang-jia/rxjs/ji-chu-api/README.md)
     * [快速上手](mv-qian-duan-kuang-jia/rxjs/ji-chu-api/kuai-su-shang-shou.md)
+
+## 算法&数据结构
+
+* [基础](suan-fa-shu-ju-jie-gou/ji-chu/README.md)
+  * [队列](suan-fa-shu-ju-jie-gou/ji-chu/dui-lie.md)
+  * [集合](suan-fa-shu-ju-jie-gou/ji-chu/ji-he.md)
+  * [列表](suan-fa-shu-ju-jie-gou/ji-chu/lie-biao.md)
+  * [栈](suan-fa-shu-ju-jie-gou/ji-chu/zhan.md)
+  * [字典](suan-fa-shu-ju-jie-gou/ji-chu/zi-dian.md)
+  * [散列](suan-fa-shu-ju-jie-gou/ji-chu/san-lie/README.md)
+    * [散列介绍](suan-fa-shu-ju-jie-gou/ji-chu/san-lie/san-lie-jie-shao.md)
+    * [开链法](suan-fa-shu-ju-jie-gou/ji-chu/san-lie/kai-lian-fa.md)
+    * [线性探测法](suan-fa-shu-ju-jie-gou/ji-chu/san-lie/xian-xing-tan-ce-fa.md)
+  * [链表](suan-fa-shu-ju-jie-gou/ji-chu/lian-biao/README.md)
+    * [链表介绍](suan-fa-shu-ju-jie-gou/ji-chu/lian-biao/lian-biao-jie-shao.md)
+    * [单向链表代码实现](suan-fa-shu-ju-jie-gou/ji-chu/lian-biao/dan-xiang-lian-biao-dai-ma-shi-xian.md)
+    * [双向链表代码实现](suan-fa-shu-ju-jie-gou/ji-chu/lian-biao/shuang-xiang-lian-biao-dai-ma-shi-xian.md)
+
 
 ## 后端服务
 
