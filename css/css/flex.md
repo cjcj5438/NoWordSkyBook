@@ -1,7 +1,3 @@
----
-description: base 基础实例
----
-
 # flex
 
 ```javascript

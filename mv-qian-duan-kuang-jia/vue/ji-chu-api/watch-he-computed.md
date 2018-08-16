@@ -1,7 +1,3 @@
----
-description: 使用场景和方法
----
-
 # watch和computed
 
 ```javascript

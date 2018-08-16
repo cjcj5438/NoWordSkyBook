@@ -3,11 +3,9 @@
 * [Introduction](README.md)
 * [First Chapter](first-chapter.md)
 
-
-
 ## 编程语言
-* [函数式编程](bian-cheng-yu-yan/fn/README.md)
 
+* [函数式编程](bian-cheng-yu-yan/han-shu-shi-bian-cheng.md)
 * [NodeJS](bian-cheng-yu-yan/nodejs/README.md)
   * [基础API](bian-cheng-yu-yan/nodejs/ji-chu-api/README.md)
     * [回调函数](bian-cheng-yu-yan/nodejs/ji-chu-api/hui-tiao-han-shu.md)
@@ -97,7 +95,7 @@
 
 ## 构建工具
 
-* [webpack](toos/webpack/README.md)
+* [webpack](gou-jian-gong-ju/webpack.md)
 
 ## CSS
 
@@ -163,7 +161,6 @@
     * [链表介绍](suan-fa-shu-ju-jie-gou/ji-chu/lian-biao/lian-biao-jie-shao.md)
     * [单向链表代码实现](suan-fa-shu-ju-jie-gou/ji-chu/lian-biao/dan-xiang-lian-biao-dai-ma-shi-xian.md)
     * [双向链表代码实现](suan-fa-shu-ju-jie-gou/ji-chu/lian-biao/shuang-xiang-lian-biao-dai-ma-shi-xian.md)
-
 
 ## 后端服务
 

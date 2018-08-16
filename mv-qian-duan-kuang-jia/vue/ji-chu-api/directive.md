@@ -1,7 +1,3 @@
----
-description: vue 原生指令
----
-
 # directive
 
 ```javascript

@@ -1,7 +1,3 @@
----
-description: console.log(this.$route)
----
-
 # 参数传递
 
 
