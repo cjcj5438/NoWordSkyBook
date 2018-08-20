@@ -26,6 +26,8 @@
     * [大规模node站点结构原理分析](bian-cheng-yu-yan/nodejs/da-gui-mo-nodejs-jia-gou-yu-you-hua/da-gui-mo-node-zhan-dian-jie-gou-yuan-li-fen-xi.md)
     * [服务器集群管理与node集群的应用](bian-cheng-yu-yan/nodejs/da-gui-mo-nodejs-jia-gou-yu-you-hua/fu-wu-qi-ji-qun-guan-li-yu-node-ji-qun-de-ying-yong.md)
     * [UV过千万的node站点真身](bian-cheng-yu-yan/nodejs/da-gui-mo-nodejs-jia-gou-yu-you-hua/uv-guo-qian-wan-de-node-zhan-dian-zhen-shen.md)
+  * [usage其他第三方库](bian-cheng-yu-yan/nodejs/usage-qi-ta-di-san-fang-ku/README.md)
+    * [用shelljs实现前端部署自动化](bian-cheng-yu-yan/nodejs/usage-qi-ta-di-san-fang-ku/yong-shelljs-shi-xian-qian-duan-bu-shu-zi-dong-hua.md)
 * [python](bian-cheng-yu-yan/python/README.md)
   * [python3快速入门](bian-cheng-yu-yan/python/python3-kuai-su-ru-men.md)
 * [ES6](bian-cheng-yu-yan/es6/README.md)
