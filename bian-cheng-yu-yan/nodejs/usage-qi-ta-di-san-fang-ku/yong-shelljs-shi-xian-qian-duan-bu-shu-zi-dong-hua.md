@@ -1,4 +1,4 @@
-# 用shelljs实现前端部署自动化
+# shelljs前端部署自动化
 
 ```text
 npm run build
