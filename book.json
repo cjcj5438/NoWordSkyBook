@@ -1,6 +1,6 @@
 {
-  "title": "天书",
-  "description": "这时一本无纸天书,哈哈哈~",
+  "title": "无字天书",
+  "description": "哈哈哈~",
   "author": "陈靖",
   "language": "zh-hans",
   "links": {
@@ -9,35 +9,21 @@
       "前端小站": ""
     }
   },
-  "styles":{
-    "website":"style.css"
+  "styles": {
+    "website": "style.css"
   },
   "plugins": [
-    "advanced-emoji",
-   "github-buttons",
-    "-lunr",
+    "hints-istex",
+    "expandable-chapters-small@^0.1.7",
     "-search",
-    "-sharing",
-    "-livereload",
-    "expandable-chapters",
-    "search-plus",
-    "splitter",
-    "github",
-   "back-to-top-button"
+    "search-plus@^0.0.11"
   ],
   "pluginsConfig": {
-    "github": {
-      "url": "https://github.com/cjcj5438/NoWordSkyBook/"
-    },
-    "github-buttons": {
-            "repo": "cjcj5438/NoWordSkyBook",
-            "types": [
-                "star",
-                "watch",
-                "fork"
-            ],
-            "size": "small"
-        }
+    "hints": {
+      "info": "fa fa-info-circle",
+      "success": "fa fa-check-circle",
+      "danger": "fa fa-exclamation-triangle",
+      "warning": "fa fa-exclamation-circle"
+    }
   }
-
 }

@@ -1,4 +1,0 @@
-# GraphQL and Relay
-
-
-
