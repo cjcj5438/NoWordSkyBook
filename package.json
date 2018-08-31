@@ -1,0 +1,34 @@
+{
+  "name": "NoWordSkyBook",
+  "version": "1.0.0",
+  "description": "**读前请阅 : install.md  \r 首尾相赴: directory.md  \r 流连忘返::start:**",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "gitbook-plugin-advanced-emoji": "^0.2.2",
+    "gitbook-plugin-back-to-top-button": "^0.1.4",
+    "gitbook-plugin-expandable-chapters": "^0.2.0",
+    "gitbook-plugin-github": "^2.0.0",
+    "gitbook-plugin-github-buttons": "^3.0.0",
+    "gitbook-plugin-hints-istex": "^1.0.1",
+    "gitbook-plugin-search-plus": "^1.0.3",
+    "gitbook-plugin-splitter": "^0.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjcj5438/NoWordSkyBook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjcj5438/NoWordSkyBook/issues"
+  },
+  "homepage": "https://github.com/cjcj5438/NoWordSkyBook#readme"
+}

@@ -31,6 +31,7 @@
 * [python](bian-cheng-yu-yan/python/README.md)
     * [python3快速入门](bian-cheng-yu-yan/python/python3-kuai-su-ru-men.md)
 * [ES6](bian-cheng-yu-yan/es6/README.md)
+    * [解构](bian-cheng-yu-yan/es6/object/jie-gou.md)
     * [reflect 反射](bian-cheng-yu-yan/es6/reflect-fan-she/README.md)
         * [概述](bian-cheng-yu-yan/es6/reflect-fan-she/gai-shu.md)
         * [静态方法](bian-cheng-yu-yan/es6/reflect-fan-she/jing-tai-fang-fa.md)
